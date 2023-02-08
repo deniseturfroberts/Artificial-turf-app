@@ -1,1 +1,5 @@
-# Artificial-turf-app
+- 👋 Hi, I'm @deniseturfroberts
+- 👀 I'm interested in ... serving my artificial turf customers
+- 🌿 I'm currently learning ... how to write code for my artificial turf software
+- 🧠  I'm looking to collaborate on ... my artificial turf software
+- 📬 how to reach me ... visit my <a href="https://www.artificialturfexpertssocal.com">Artificial Turf Installation</a> website
